@@ -1,0 +1,11 @@
+Lesson 2 Reflections
+1. What happens when you initialize a repository? Why do you need to do it?
+a git folder was created that will hold all the details and 'meta' data for
+the history of the repository. Without it there would be no way to track the changes.
+
+2. How is the staging area different from the working directory and the repository?
+  What value do you think it offers?
+
+  Staging area is a place to temporarily queue up the files you want to eventually
+  commit together to the repository. This is nice because it might keep the size
+  of your repository down
