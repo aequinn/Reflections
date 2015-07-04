@@ -16,3 +16,12 @@ the history of the repository. Without it there would be no way to track the cha
   With the 'diff' comparisons I can check the files I am commiting to make sure
   even if I was working on different files or problems, to only commit the things
   that go together logically
+
+  4. What are some situations when branches would be helpful in keeping your
+  history organized? How would branches help?
+
+  The branch would be nice to maintain your old production code intact, while you
+  work on new features. You could potentially have multiple branches for multiple
+  features if you wanted. Or for larger bugs.
+
+  This is also a way to work on major re-writes.
