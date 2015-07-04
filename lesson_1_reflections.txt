@@ -1,0 +1,58 @@
+git - Lesson 1 Reflections
+
+1. The exercise did save time by bringing the differences up very quickly.
+My concern is that it still takes a considerable amount of time to look and process these changes,
+especially when it is a typo or a syntax error. The interface can be challenging.
+
+I'm wondering what other options may be available.
+
+2. How could having easy access to the entire history of a file make you
+a more efficient programmer in the long term?
+
+It would allow you to go back and get old logic that you might have erased.
+It would also be a way to go back and see how code had evolved. What was
+written first and so on. This can help you get back on track to programming, or
+it might give some insight why something was done a certain way.
+
+3. What do you think are the pros and cons of manually choosing when to create
+a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros
+You can logically commit things that makes sense together
+You can control how often things get saved
+Cons
+You could go a long time without committing.
+You could save too often
+
+4. Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others, like Google Docs,
+treat each file separately?
+
+I would suppose this is based on assumptions on context. Google Docs, probably
+makes the assumption that the conext of working on 1 file, means they don't need
+to save a snapshot of all your files.
+
+Coding you are often changing many files that depend on each other.
+
+I guess it comes to scope of control too. Google Docs doesn't really know what
+scope or how large a project you are working on.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+You can use these commands to view comments and track down when a specific change
+might have been make.
+You can also then dig deeper to understand what changes were made, by line.
+I also really like the color highlighting. It makes it a little more readable
+
+6. How might using version control make you more confident to make changes
+that could break something?
+
+It is nice to know that you can easily go back to find when something broke or
+stopped working, then dig in to see what was wrong at that moment. Could make
+fixes a lot easier to find. It makes committing at the right time improtant
+big diffs would make this less useful.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use it effectively for managing my projects while going through my nano degree.
+Maybe use if for a few other projects as well.
