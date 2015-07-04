@@ -9,3 +9,10 @@ the history of the repository. Without it there would be no way to track the cha
   Staging area is a place to temporarily queue up the files you want to eventually
   commit together to the repository. This is nice because it might keep the size
   of your repository down
+
+3. How can you use the staging area to make sure you have one commit per
+  logical change?
+
+  With the 'diff' comparisons I can check the files I am commiting to make sure
+  even if I was working on different files or problems, to only commit the things
+  that go together logically
