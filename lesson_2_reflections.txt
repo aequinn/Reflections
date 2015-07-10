@@ -26,7 +26,14 @@ the history of the repository. Without it there would be no way to track the cha
 
   This is also a way to work on major re-writes.
 
-  5. How do the diagrams help you visualize the branch structure?
+5. How do the diagrams help you visualize the branch structure?
 
   It makes it easy to see how things relate to each other. And maybe show where
   you can't relate things or need more steps to merge
+
+6. What is the result of merging two branches together? Why do we represent it
+  in the diagram the way we do?
+The result of merging is that all the files are merged together and it is a way
+to bring code that was being developed back into the original. Showing it on the
+diagram the way we do, shows what is most up-to-date and where what branches have
+which code.
