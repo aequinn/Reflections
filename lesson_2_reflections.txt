@@ -37,3 +37,11 @@ The result of merging is that all the files are merged together and it is a way
 to bring code that was being developed back into the original. Showing it on the
 diagram the way we do, shows what is most up-to-date and where what branches have
 which code.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges
+  manually?
+
+Pros of automatic marging is that it can catch a lot of things that never need
+your attention, making less overall work. Cons are that sometimes there is a lot
+of investigative work that you have to do to get a merge to workout the way you
+want it to.
