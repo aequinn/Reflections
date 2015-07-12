@@ -1,0 +1,4 @@
+Lesson 3 Reflections
+1. When would you want to use a remote repository rather than keeping all your work local?
+If there is a large team project, working on a remote repository would be great. It would also
+be a good idea if you weren't able to be on your own computer where the rest of your files were.
