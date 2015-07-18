@@ -8,3 +8,9 @@ stay up-to-date with your remote repository?
 
 Other code that people have committed to the remote may conflict with something you are working on.
 You wouldn't want to disrupt what you are currently doing.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Cloning - is making a copy of a repository, keeping all the previous commit history. You could do this to Fork.
+Fork - is essentially cloning someone else's repository so you can start to use it and make changes for your own purpose.
+Branching - Creating a branch is just creating a name underwhich commits are made other than on master.
