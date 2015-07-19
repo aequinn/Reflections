@@ -14,3 +14,13 @@ You wouldn't want to disrupt what you are currently doing.
 Cloning - is making a copy of a repository, keeping all the previous commit history. You could do this to Fork.
 Fork - is essentially cloning someone else's repository so you can start to use it and make changes for your own purpose.
 Branching - Creating a branch is just creating a name underwhich commits are made other than on master.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is that it gives you something to compare to as you are working. If you need, it is
+something you can revert to as well.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without git you could still use another versioning methodology, but it would be harder to communicate and coordinate changes
+without git and the branch, commit structure. It would also be difficult to know when someone wanted to merge in,
+it also creates accountability with the right person to fix their mistakes before merging code.
