@@ -24,3 +24,7 @@ something you can revert to as well.
 Without git you could still use another versioning methodology, but it would be harder to communicate and coordinate changes
 without git and the branch, commit structure. It would also be difficult to know when someone wanted to merge in,
 it also creates accountability with the right person to fix their mistakes before merging code.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I think this would make sense and is worth the work to force you to manage confilcts with changes when doing large feature work,
+bug fixes, and many other areas of development. It's work, but a really nice way to keep the keep things clean.
